@@ -1,5 +1,7 @@
-/*Ver explicación de esta funcion en el readme del repositorio. */
-
+/* 
+El siguiente código lo podrás usar para renderizar en tu front el panel de 
+cada tarea de tu aplicación
+*/
 function displayItems() {
   let items = ''
   for (let i = 0; i < itemsArray.length; i++) {
