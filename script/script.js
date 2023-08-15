@@ -1,5 +1,24 @@
-/*TIPS: *No olvides utilizar el almacenamiento local (localStorage) para que las tareas queden guardadas en caso
+/*TIPS: *No olvides utilizar el almacenamiento local (localStorage)
+ para que las tareas queden guardadas en caso
  de que la aplicación se cierre.*/
+
+// Codigo DOM #1
+
+// DOM: PARTE 2
+
+// DOM: PARTE 3
+
+// DOM: PARTE 4
+
+// DOM: PARTE 5
+
+// DOM: PARTE 6
+
+// DOM: PARTE 7
+
+// DOM: PARTE 8
+
+// DOM: PARTE 9
 
 //El sistema debe permitir EDITAR o MODIFICAR una tarea.
 
@@ -17,4 +36,7 @@
 //El sistema debe permitir visualizar tareas por CATEGORÍAS o ETIQUETAS
 //EJEMPLO:
 
-/*Categorías disponibles: CASA, TRABAJO, EMPRENDIMIENTO E.T.C */
+/*Categorías disponibles: PENDIENTE, COMPLETADO o TODASE.T.C */
+
+//Recordar llamar las funciones displayItems() y displayFooter() para mostrar
+//las tareas en pantalla
