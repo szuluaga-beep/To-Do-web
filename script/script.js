@@ -4,21 +4,15 @@
 
 // Codigo DOM #1
 
-// DOM: PARTE 2
+// Codigo DOM #2
 
-// DOM: PARTE 3
+// Codigo DOM #3
 
-// DOM: PARTE 4
+// Codigo DOM #4
 
-// DOM: PARTE 5
+// Codigo DOM #5
 
-// DOM: PARTE 6
-
-// DOM: PARTE 7
-
-// DOM: PARTE 8
-
-// DOM: PARTE 9
+// Codigo DOM #6
 
 //El sistema debe permitir EDITAR o MODIFICAR una tarea.
 
