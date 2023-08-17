@@ -1,3 +1,5 @@
+![image](https://user-images.githubusercontent.com/64823934/184569395-6c5c1217-11e3-4ddf-8502-fd07d6deb405.png)
+
 ## ¿Qué es el DOM?
 
 El DOM (Documento Objeto Modelo, en inglés Document Object Model) es la forma en
@@ -67,8 +69,8 @@ coincidencias en el DOM.
 
 4.1 `document.querySelectorAll('.toggle')`
 
-5. para modificar el tag HTML <i> que será donde al dar clic podrás eliminar
-   una tarea usa:
+5. para modificar el tag HTML <i> que será donde al dar clic podrás eliminar una
+   tarea usa:
 
 5.1 `document.querySelectorAll('.deleteBtn')`
 
@@ -113,8 +115,8 @@ coincidencias en el DOM.
 
 ## Código del DOM
 
-A continuación, podrás encontrar el código del DOM que sugerimos incluyas/uses en
-el archivo script.js (./script/script.js)
+A continuación, podrás encontrar el código del DOM que sugerimos incluyas/uses
+en el archivo script.js (./script/script.js)
 
 _Código DOM #1_
 
